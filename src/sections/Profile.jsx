@@ -198,23 +198,15 @@ const Profile = () => {
       </Title>
       <Left>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi
-          a ullam sunt mollitia atque vitae. Sit vero quis asperiores rerum
-          doloremque, reiciendis nostrum sint officia odit! Ratione facere velit
-          nesciunt debitis? Blanditiis laboriosam minima praesentium inventore!
-          Dolor dolore, ea ipsam enim quasi tenetur adipisci neque, eligendi
-          pariatur molestiae aspernatur!
+          ChicVogue Innovations, established in 2022, is a visionary force in the fashion industry, renowned for its avant-garde approach to design and commitment to quality. Our team of seasoned designers, artisans, and fashion enthusiasts collaborate to curate collections that redefine contemporary aesthetics. 
           <br /> <br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. In, vel
-          recusandae optio deleniti quod, unde magni eligendi minus officia
-          commodi, animi ea doloribus? Iusto quibusdam atque debitis, velit
-          voluptatibus in vero nulla tempore, hic non.
+          From runway to reality, ChicVogue's creations mirror the diverse and dynamic nature of our clientele. With a meticulous attention to detail, we bring forth a fusion of global trends, sustainable practices, and artistic expression. Explore our diverse range of clothing that transcends seasons, making a statement that resonates with the bold and the beautiful.
         </p>
       </Left>
       <Right ref={Horizontalref}>
         <Product img={img3} title="Sweatshirts" />
         <Product img={img4} title="Ethnic Wear" />
-        <Product img={img1} title="Man Basics" />
+        <Product img={img1} title="Men Basics" />
         <Product img={img2} title="Tops" />
         <Product img={img5} title="Blazers" />
         <Product img={img6} title="Suits" />

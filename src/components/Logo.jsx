@@ -94,7 +94,7 @@ const Logo = () => {
         </svg>
 
         <Text variants={textVariants} initial="hidden" animate="visible">
-          Animation Demo
+          ChicVogue Creations
         </Text>
       </Link>
     </Container>

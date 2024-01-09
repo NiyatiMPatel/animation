@@ -213,19 +213,13 @@ const Special = () => {
       </Container>
 
       <Text data-scroll data-scroll-speed="-4">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
-        assumenda unde, eveniet obcaecati, rem quas cumque ipsam accusantium
-        officiis consequatur tempore necessitatibus laborum, sunt illum. Et
-        ducimus nulla, laudantium molestiae expedita vel corrupti architecto
-        nesciunt, minus ad hic.
+        At ChicVogue Innovations, we believe in celebrating the extraordinary in the ordinary. Our "Special" collection is a testament to this philosophy, where each garment is a masterpiece crafted to perfection. 
         <br />
         <br />
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet eum quas
-        itaque voluptate labore dolores obcaecati enim. Vero amet similique hic
-        odio
+        From ethereal evening gowns to trendsetting streetwear, this collection is a curated showcase of uniqueness. Immerse yourself in a world where every piece is designed to make you stand out, be it a glamorous soirée or a casual rendezvous. Our Special collection transcends fashion norms, inviting you to explore and embrace your distinct sense of style.
         <br />
         <br />
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Elevate your wardrobe with ChicVogue Innovations - where every outfit is an art form.
       </Text>
     </Section>
   );

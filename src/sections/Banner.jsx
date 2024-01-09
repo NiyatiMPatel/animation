@@ -55,7 +55,8 @@ const BannerWrapper = styled.h1`
 
   span {
     display: block;
-    background-color: ${(props) => props.theme.body};
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: ${(props) => props.theme.body};
     padding: 1rem 2rem;
   }
 `;
@@ -71,7 +72,7 @@ const Banner = () => {
             data-scroll-speed="8"
             data-scroll-target="#up"
           >
-            Lorem ipsum.
+            Elevate Your Style Journey
           </span>
         </BannerWrapper>
         <BannerWrapper>
@@ -81,7 +82,7 @@ const Banner = () => {
             data-scroll-speed="-6"
             data-scroll-target="#up"
           >
-            Lorem ipsum dolor sit.
+            Where Trends Collide
           </span>
         </BannerWrapper>
         <BannerWrapper>
@@ -91,7 +92,7 @@ const Banner = () => {
             data-scroll-speed="6"
             data-scroll-target="#up"
           >
-            Lorem ipsum dolor sit amet consectetur.
+            Fashion Redefined, Daily
           </span>
         </BannerWrapper>
         <BannerWrapper>
@@ -101,7 +102,7 @@ const Banner = () => {
             data-scroll-speed="-4"
             data-scroll-target="#up"
           >
-            Lorem, ipsum.
+            Scroll Into Chic Elegance
           </span>
         </BannerWrapper>
         <BannerWrapper>
@@ -111,7 +112,7 @@ const Banner = () => {
             data-scroll-speed="6"
             data-scroll-target="#up"
           >
-            Lorem ipsum dolor sit amet.
+            Unveil Your Inner Vogue
           </span>
         </BannerWrapper>
       </Container>

@@ -106,7 +106,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.48"
             data-scroll-speed="9"
           >
-            A
+            C
           </motion.h1>
           <motion.h1
             variants={item}
@@ -114,7 +114,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.39"
             data-scroll-speed="9"
           >
-            n
+            h
           </motion.h1>
           <motion.h1
             variants={item}
@@ -130,15 +130,16 @@ const CoverVideo = () => {
             data-scroll-delay="0.24"
             data-scroll-speed="9"
           >
-            m
+            c
           </motion.h1>
           <motion.h1
             variants={item}
             data-scroll
             data-scroll-delay="0.18"
             data-scroll-speed="9"
+            style={{marginLeft:"25px"}}
           >
-            a
+            V
           </motion.h1>
           <motion.h1
             variants={item}
@@ -146,7 +147,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.13"
             data-scroll-speed="9"
           >
-            t
+            o
           </motion.h1>
           <motion.h1
             variants={item}
@@ -154,7 +155,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.09"
             data-scroll-speed="9"
           >
-            i
+            g
           </motion.h1>
           <motion.h1
             variants={item}
@@ -162,7 +163,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.06"
             data-scroll-speed="9"
           >
-            o
+            u
           </motion.h1>
           <motion.h1
             variants={item}
@@ -170,7 +171,7 @@ const CoverVideo = () => {
             data-scroll-delay="0.04"
             data-scroll-speed="9"
           >
-            n
+            e
           </motion.h1>
         </div>
         <motion.h2
@@ -179,7 +180,7 @@ const CoverVideo = () => {
           data-scroll-delay="0.04"
           data-scroll-speed="4.5"
         >
-          Learn. Try. Succeed.
+          Elegance Redefined, Uniquely
         </motion.h2>
       </Title>
       <video src={MainVideo} type="video/mp4" autoPlay muted loop />

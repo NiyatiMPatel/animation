@@ -136,7 +136,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Wibe Studio
+          Chic Vogue Creations
         </h3>
       </LogoContainer>
       <FooterComponent
@@ -174,7 +174,7 @@ const Footer = () => {
             data-scroll-speed="-2"
             data-scroll-direction="horizontal"
           >
-            Animation demo
+            ChicVogue Creations
           </span>
         </Bottom>
       </FooterComponent>

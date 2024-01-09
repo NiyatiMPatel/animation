@@ -142,22 +142,13 @@ const About = () => {
         About Us
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum dolore
-        perspiciatis iste nemo amet eaque reprehenderit nesciunt nostrum
-        praesentium odio fugiat, doloremque minus suscipit tenetur rerum harum
-        sunt. Corporis, molestiae.
+        Welcome to ChicVogue Innovations, where style meets innovation! We are not just a fashion company; we are trendsetters, dreamers, and creators of a fashion utopia that transcends boundaries.  
         <br />
         <br />
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione,
-        officiis nam reprehenderit architecto dolor odio officia accusamus eum,
-        deserunt repellat sunt corrupti nisi ipsam non molestiae dolore.
-        Consequatur, a corrupti.
+        At ChicVogue, we believe in weaving stories through fabric, creating garments that speak volumes about individuality and self-expression. Our journey began with a passion for redefining the fashion landscape, and today, we stand at the forefront of cutting-edge design, seamlessly blending tradition with modernity.
         <br />
         <br />
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-        similique quam ipsa rerum, blanditiis quis corrupti sequi nobis,
-        accusamus eum in quisquam odit adipisci officia quaerat facilis
-        recusandae fuga non!
+        Join us as we embark on a fashion odyssey, where every stitch narrates a tale of elegance, craftsmanship, and the spirit of endless possibilities.
       </Left>
 
       <Right>
